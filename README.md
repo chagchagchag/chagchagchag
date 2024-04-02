@@ -2,7 +2,7 @@
 
 - [https://chagchagchag.github.io/docs-resume/](https://chagchagchag.github.io/docs-resume/)
 
-Spring Webflux, R2dbc, Kotlin Coroutine
+Spring Webflux, Spring Data R2dbc, Spring Data MongoDB Reactive, Kotlin Coroutine
 
 - [https://chagchagchag.github.io/docs-spring-webflux/](https://chagchagchag.github.io/docs-spring-webflux/)
 - [https://chagchagchag.github.io/docs-spring-data-reactive/](https://chagchagchag.github.io/docs-spring-data-reactive/)
