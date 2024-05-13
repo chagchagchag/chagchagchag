@@ -1,7 +1,3 @@
-이력서, 포트폴리오
-
-- [https://chagchagchag.github.io/docs-resume/](https://chagchagchag.github.io/docs-resume/)
-
 Spring Webflux, NIO, Spring Data R2dbc, Spring Data MongoDB Reactive, Kotlin Coroutine
 
 - [https://chagchagchag.github.io/docs-spring-webflux/](https://chagchagchag.github.io/docs-spring-webflux/)
