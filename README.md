@@ -5,7 +5,7 @@ Spring Webflux, NIO, Spring Data R2dbc, Spring Data MongoDB Reactive, Kotlin Cor
 - [https://chagchagchag.github.io/docs-kotlin-coroutine/](https://chagchagchag.github.io/docs-kotlin-coroutine/)
 - [https://chagchagchag.github.io/docs-webflux-spring-security/](https://chagchagchag.github.io/docs-webflux-spring-security/)
 - [https://chagchagchag.github.io/docs-spring-reactive-test/](https://chagchagchag.github.io/docs-spring-reactive-test/) (진행 중)
-- [https://github.com/chagchagchag/docs-spring-cloud-gateway](https://github.com/chagchagchag/docs-spring-cloud-gateway) (진행 중)
+- [https://chagchagchag.github.io/docs-spring-cloud-gateway/](https://chagchagchag.github.io/docs-spring-cloud-gateway/) (진행 중)
 
 MySQL
 
