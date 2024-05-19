@@ -25,11 +25,16 @@ Spring Cloud Data Flow
 
 - [https://chagchagchag.github.io/docs-spring-cloud-data-flow/](https://chagchagchag.github.io/docs-spring-cloud-data-flow/) (작업 중)
 
+APP 개발 
+
+- 2024 앱 개발 프로젝트 : [https://chagchagchag.github.io/docs-2024-app-project/](https://chagchagchag.github.io/docs-2024-app-project/) (작업 중)
+- Flutter 스터디 로그 : [https://chagchagchag.github.io/docs-flutter-study-log/](https://chagchagchag.github.io/docs-flutter-study-log/) (작업 중)
+
 etc
 
 - Redis,MySQL 기반 쿠폰발급기 : [https://chagchagchag.github.io/docs-coupon-service/](https://chagchagchag.github.io/docs-coupon-service/)
 - EDA 기반 Spring Cloud : [https://chagchagchag.github.io/eda-based-spring-cloud-doc/](https://chagchagchag.github.io/eda-based-spring-cloud-doc/)
 - Springdoc 사용법 : [https://chagchagchag.github.io/docs-springdoc/](https://chagchagchag.github.io/docs-springdoc/)
 - DDD, Clean Architecture : [https://github.com/chagchagchag/fastcampuspay-v1](https://github.com/chagchagchag/fastcampuspay-v1) (진행 중)
-- FastAPI, ChatGPT 기반 생산성 도구: [https://chagchagchag.github.io/docs-chatgpt-api-services/](https://chagchagchag.github.io/docs-chatgpt-api-services/) (진행중)
+- FastAPI, ChatGPT 기반 생산성 도구: [https://chagchagchag.github.io/docs-chatgpt-api-services/](https://chagchagchag.github.io/docs-chatgpt-api-services/) (중지)
 
