@@ -38,3 +38,6 @@ etc
 - DDD, Clean Architecture : [https://github.com/chagchagchag/fastcampuspay-v1](https://github.com/chagchagchag/fastcampuspay-v1) (진행 중)
 - FastAPI, ChatGPT 기반 생산성 도구: [https://chagchagchag.github.io/docs-chatgpt-api-services/](https://chagchagchag.github.io/docs-chatgpt-api-services/) (중지)
 
+velog
+
+- [https://velog.io/@qpwoeiworker/posts](https://velog.io/@qpwoeiworker/posts)
