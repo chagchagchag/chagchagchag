@@ -36,12 +36,12 @@ APP 개발
 
 etc
 
-- Redis,MySQL 기반 쿠폰발급기 : [https://chagchagchag.github.io/docs-coupon-service/](https://chagchagchag.github.io/docs-coupon-service/)
+- Redis,MySQL 기반 쿠폰발급기 :
+  - [v1 : https://chagchagchag.github.io/docs-coupon-service/](https://chagchagchag.github.io/docs-coupon-service/)
+  - [v2 : https://github.com/chagchagchag/coupon-service-v2](https://github.com/chagchagchag/coupon-service-v2)
 - EDA 기반 Spring Cloud : [https://chagchagchag.github.io/eda-based-spring-cloud-doc/](https://chagchagchag.github.io/eda-based-spring-cloud-doc/)
 - Springdoc 사용법 : [https://chagchagchag.github.io/docs-springdoc/](https://chagchagchag.github.io/docs-springdoc/)
 - DDD, Clean Architecture : [https://github.com/chagchagchag/fastcampuspay-v1](https://github.com/chagchagchag/fastcampuspay-v1) (진행 중)
 - FastAPI, ChatGPT 기반 생산성 도구: [https://chagchagchag.github.io/docs-chatgpt-api-services/](https://chagchagchag.github.io/docs-chatgpt-api-services/) (중지)
 
-velog
 
-- [https://velog.io/@qpwoeiworker/posts](https://velog.io/@qpwoeiworker/posts)
