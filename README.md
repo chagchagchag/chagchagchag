@@ -26,8 +26,8 @@ Kafka
 - example-kafka-kotlin : [example-kafka-kotlin](https://github.com/chagchagchag/example-kafka-kotlin) (작업 중)
 
 Python, ELK, Airflow, Flink
-- python note : [https://github.com/chagchagchag/python-note](https://github.com/chagchagchag/python-note)
-- ELK : [https://github.com/chagchagchag/docs-elk-study-log](https://github.com/chagchagchag/docs-elk-study-log)
+- python note : [https://github.com/chagchagchag/python-note](https://github.com/chagchagchag/python-note) (작업 중)
+- ELK : [https://github.com/chagchagchag/docs-elk-study-log](https://github.com/chagchagchag/docs-elk-study-log) (작업 중)
 
 Spring Cloud Data Flow
 
