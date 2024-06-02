@@ -25,6 +25,10 @@ Kafka
 - Docs Kafka Summary : [https://chagchagchag.github.io/docs-kafka-summary/](https://chagchagchag.github.io/docs-kafka-summary/) (작업 중)
 - example-kafka-kotlin : [example-kafka-kotlin](https://github.com/chagchagchag/example-kafka-kotlin) (작업 중)
 
+Python, ELK, Airflow, Flink
+- python note : [https://github.com/chagchagchag/python-note](https://github.com/chagchagchag/python-note) (작업 중)
+- ELK : [https://github.com/chagchagchag/docs-elk-study-log](https://github.com/chagchagchag/docs-elk-study-log) (작업 중)
+
 Spring Cloud Data Flow
 
 - [https://chagchagchag.github.io/docs-spring-cloud-data-flow/](https://chagchagchag.github.io/docs-spring-cloud-data-flow/) (작업 중)
