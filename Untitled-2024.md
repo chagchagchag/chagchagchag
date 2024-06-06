@@ -2,6 +2,7 @@
 
 - 사공이 많으면 배가 산으로 간다규... 잊지 말라규\~ 
 - 나는 사공이 많아보이면 그 배는 안타고 피해다닌다규... 잊지 말라규\~ 
+- 세차 끝나면 듣기 좋은 음악 : [Sunny Travel - Nico Staf](https://www.youtube.com/watch?v=KS4cadytVwU)
 
 
 
