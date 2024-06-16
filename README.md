@@ -43,6 +43,8 @@ APP 개발
 
 - 2024 앱 개발 프로젝트 : [https://chagchagchag.github.io/docs-2024-app-project/](https://chagchagchag.github.io/docs-2024-app-project/) (작업 중)
 - Flutter 스터디 로그 : [https://chagchagchag.github.io/docs-flutter-study-log/](https://chagchagchag.github.io/docs-flutter-study-log/) (작업 중)
+- youtube playlist helper (backend) : [https://github.com/chagchagchag/youtube-playlist-helper](https://github.com/chagchagchag/youtube-playlist-helper) (작업 중)
+- youtube playlist helper (frontend) : [https://github.com/chagchagchag/youtube-playlist-helper-frontend](https://github.com/chagchagchag/youtube-playlist-helper-frontend) (작업 중)
 
 PHP
 - 어쩌다 보니 php 레거시 운영을 !!! 근데 또 재밌어!! ㅋㅋ 
