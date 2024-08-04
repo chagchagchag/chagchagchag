@@ -46,9 +46,6 @@ APP 개발
 - youtube playlist helper (backend) : [https://github.com/chagchagchag/youtube-playlist-helper](https://github.com/chagchagchag/youtube-playlist-helper) (작업 중)
 - youtube playlist helper (frontend) : [https://github.com/chagchagchag/youtube-playlist-helper-frontend](https://github.com/chagchagchag/youtube-playlist-helper-frontend) (작업 중)
 
-PHP
-- 어쩌다 보니 php 레거시 운영을 !!! 근데 또 재밌어!! ㅋㅋ 
-- https://github.com/chagchagchag/study-php-log
 
 etc
 
